@@ -10,9 +10,8 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
-README.md
-A définir
 
+README.md
 ```
 
 ### Installation
@@ -54,7 +53,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **O.C.**
+O.C.
 
 ## License
 
